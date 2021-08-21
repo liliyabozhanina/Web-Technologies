@@ -1,0 +1,10 @@
+.msg-delieverd {
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+    color: #2F99F5;
+}
+.msg-read {
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+    color: #2AC151;
+}
