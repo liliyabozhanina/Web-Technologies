@@ -1,4 +1,4 @@
-This is a chat project
+This is a chat project.
 
 How to run project:
 
